@@ -6,10 +6,10 @@ import (
 	"math/rand"
 	"net/http"
 
-	"github.com/easonlin404/ksm"
-	"github.com/easonlin404/ksm/d"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
+	"github.com/subinwalter/ksm"
+	"github.com/subinwalter/ksm/d"
 )
 
 func main() {

@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/easonlin404/ksm/d"
 	"github.com/stretchr/testify/assert"
+	"github.com/subinwalter/ksm/d"
 )
 
 type spcTest struct {
