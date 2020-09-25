@@ -1,8 +1,8 @@
 package rsa
 
 import (
-	"github.com/89hmdys/toast/crypto"
-	"github.com/89hmdys/toast/rsa"
+	"github.com/subinwalter/toast/crypto"
+	"github.com/subinwalter/toast/rsa"
 )
 
 //RSA/ECB/OAEPPadding
